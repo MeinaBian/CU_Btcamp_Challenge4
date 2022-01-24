@@ -1,0 +1,4 @@
+*.txt
+*.html
+!spec/*.html
+Module 4 Challenge_files/
