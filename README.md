@@ -21,7 +21,8 @@ Determine the fund with the most investment potential based on key risk-manageme
 
 
 # the libraries you used in the analysis.  
-import pandas as pd  
-from pathlib import Path  
-%matplotlib inline：  
+import pandas as pd
+from pathlib import Path
+import matplotlib.pyplot as plt
+%matplotlib inline
 
