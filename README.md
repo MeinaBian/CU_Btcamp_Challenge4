@@ -15,8 +15,8 @@ Determine the fund with the most investment potential based on key risk-manageme
 
 # Include information about the datasets  
 -Data names: whale_navs.csv
--Data beginning datas: 2018-01-01 00:00:00
--Data end dates: 2018-03-31 23:55:00
+-Data beginning datas: 2014-10-01 
+-Data end dates: 2020-09-11 
 
 
 
